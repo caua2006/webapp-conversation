@@ -28,7 +28,7 @@ const AppIcon: FC<AppIconProps> = ({
         background,
       }}
     >
-      🤖
+      <img src="https://yt3.googleusercontent.com/FdL1tzKY6ERA0yDEJyI8ClULS1aWlz9CvD1R5ZwhlWr8Kkmk_2WaCHVRbVKyM0AGqWsqPxIXOA=s900-c-k-c0x00ffffff-no-rj" alt="" />
     </span>
   )
 }
